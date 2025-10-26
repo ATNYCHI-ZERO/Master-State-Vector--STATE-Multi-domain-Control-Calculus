@@ -1,0 +1,90 @@
+Master State Vector / Ω-STATE License (Version 1.0)
+Definitions
+
+Licensor: The author and rights holder of the Software and Paper.
+
+Software: The source code, algorithms, and any associated documentation for the Master State Vector / Ω-STATE multi-domain control calculus.
+
+Paper: The Master State Vector / Ω-STATE research paper and supplementary materials.
+
+Licensee: Any person or entity receiving rights under this License.
+
+Government/Defense Entities: U.S. or allied government or defense agencies (including DoD, NATO, allied research labs and contractors).
+
+Educational/Research Entities: Accredited universities, research institutions, or individuals using the Software or Paper for non-commercial scholarly purposes (research, peer review, teaching).
+
+Authorized Users: Government/Defense or Educational/Research Entities as defined above.
+
+Restricted Entities: Any person or organization not in the Authorized Users categories, including those subject to U.S. or international sanctions, embargoes, or considered adversarial or hostile to the U.S. or its allies.
+
+Grant of License
+
+License Grant: Subject to this License, Licensor grants Licensee a non-exclusive, worldwide, royalty-free, non-transferable license to use, reproduce, modify, and distribute the Software and Paper in accordance with the terms below.
+
+Government/Defense Use: U.S. government agencies, NATO member states, allied defense organizations, and their authorized contractors may use, integrate, and modify the Software and Paper for defense, intelligence, security, and related applications (including integration with AI/XAI systems) without fee.
+
+Academic and Research Use: Educational and research entities may use, share, publish, modify, and analyze the Software and Paper for non-commercial research, teaching, and peer review purposes.
+
+Open Collaboration: Licensee may collaborate and share the Software and Paper with other Authorized Users (e.g. research institutions, defense contractors) under the same License terms, to facilitate joint development and review.
+
+Commercial Use: Any commercial use or deployment (e.g. sale, licensing, or incorporation into for-profit products) is allowed only under a separate commercial license obtained from Licensor. This License does not grant permission for profit-making exploitation beyond research or government use.
+
+Reservation of Rights: All rights not expressly granted herein are reserved by the Licensor.
+
+Restrictions
+
+Unauthorized Access: The Software and Paper must not be used, disclosed, or transferred to any Restricted Entities. Licensee shall not permit use by any person or organization that is under U.S. or allied export restrictions, embargoes, or on denied persons lists
+apple.com
+ or that is engaged in activities hostile to U.S. or allied interests.
+
+Export and Sanctions Compliance: Licensee agrees to comply with all applicable export control, economic sanctions, and trade laws. In particular, the Software or Paper may not be exported or re-exported to embargoed countries or to any individual or entity listed by the U.S. Treasury or Commerce Departments
+apple.com
+.
+
+No Sublicensing: Licensee may not sublicense, rent, lease, or sell the Software, Paper, or any derivative works except as allowed under this License (e.g. with a separate commercial agreement).
+
+No Unauthorized Modification or Use: Licensee may not use the Software or Paper in any unlawful manner or in violation of this License. Reverse engineering, decompilation, or disassembly of the Software is prohibited except to the extent permitted by law.
+
+Preservation of Notices: Any copy, distribution, or derivative of the Software or Paper must include the original copyright notice, patent notices (if any), and this License text
+spdx.org
+. Licensee shall not remove or alter any copyright, patent or other proprietary notices.
+
+No Endorsement: Licensee shall not use the Licensor’s name, trademarks, or affiliations to endorse or promote any products derived from the Software or Paper without prior written permission
+spdx.org
+.
+
+Attribution and Redistribution
+
+Attribution: Any published results or presentations based on the Software or Paper must acknowledge the original work (e.g. by citing the Paper and acknowledging Licensor’s contribution).
+
+Redistribution: Redistribution of the Software (in source or binary form) must be under the terms of this License. Licensee may distribute copies or modified versions only to Authorized Users and must ensure this License and original notices accompany every copy.
+
+Disclaimer of Warranty and Liability
+
+AS IS: THE SOFTWARE AND PAPER ARE PROVIDED “AS IS” WITHOUT ANY WARRANTIES OR GUARANTEES
+spdx.org
+. Licensor expressly disclaims all warranties, whether express, implied, statutory, or otherwise, including but not limited to implied warranties of merchantability, fitness for a particular purpose, title, accuracy, security, or non-infringement.
+
+No Liability: TO THE MAXIMUM EXTENT PERMITTED BY LAW, LICENSOR SHALL NOT BE LIABLE FOR ANY DAMAGES WHATSOEVER (INCLUDING DIRECT, INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES, OR DAMAGES FOR LOSS OF PROFITS, DATA, OR USE) ARISING FROM OR RELATING TO THIS LICENSE, THE SOFTWARE, OR THE PAPER
+spdx.org
+. The entire risk arising out of use or performance remains with Licensee.
+
+Security Assurance: Licensor does not warrant or guarantee any level of security or robustness of the Software. Licensee is responsible for implementing necessary security measures, verifying the integrity of the Software, and complying with relevant information assurance requirements.
+
+Governing Law and Miscellaneous
+
+Governing Law: This License shall be governed by and construed in accordance with the laws of [Jurisdiction], without regard to conflict of law principles.
+
+Dispute Resolution: Any legal action or proceeding relating to this License or the Software shall be brought exclusively in the courts of [Jurisdiction], and Licensee consents to such jurisdiction.
+
+Severability: If any provision of this License is held to be illegal or unenforceable, the remaining provisions shall continue in full force and effect.
+
+Entire Agreement: This License represents the complete agreement between Licensor and Licensee with respect to the Software and Paper and supersedes all prior agreements. No amendment or waiver shall be valid unless in writing and signed by Licensor.
+
+© [Year] [Licensor Name]. All rights reserved.
+
+Sources: Standard license terms and disclaimers (e.g. “provided as is” language
+spdx.org
+; export control clauses
+apple.com
+) have been adapted to ensure legal completeness and enforceability.
